@@ -4,4 +4,6 @@ Trying to complete this year. As this will be the first time I will take this se
 
 ## Days completed:
 
-- 
+- 1
+- 2
+- 3
